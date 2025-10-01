@@ -1,0 +1,69 @@
+[
+    {
+        "utenti": [
+            "Stefano",
+            "Thabo",
+            "Alessandro"
+        ],
+        "data": "2025-09-23",
+        "ora_inizio": "8:30",
+        "ora_fine": "09:30",
+        "descrizione": "Discussione, valutazione e decisione del progetto da portare avanti"
+    },
+    {
+        "utenti": [
+            "Stefano",
+            "Thabo",
+            "Alessandro"
+        ],
+        "data": "2025-09-23",
+        "ora_inizio": "13:30",
+        "ora_fine": "15:30",
+        "descrizione": "Abbozzo contenuti presentazione"
+    },
+    {
+        "utenti": [
+            "Stefano"
+        ],
+        "data": "2025-09-24",
+        "ora_inizio": "17:00",
+        "ora_fine": "18:30",
+        "descrizione": "Presentazione a ex dirigente comunale"
+    },
+    {
+        "utenti": [
+            "Stefano"
+        ],
+        "data": "2025-09-23",
+        "ora_inizio": "15:30",
+        "ora_fine": "19:00",
+        "descrizione": "Creazione base presentazione"
+    },
+    {
+        "utenti": [
+            "Alessandro"
+        ],
+        "data": "2025-09-30",
+        "ora_inizio": "00:00",
+        "ora_fine": "05:00",
+        "descrizione": "Miglioramento presentazione"
+    },
+    {
+        "utenti": [
+            "Stefano"
+        ],
+        "data": "2025-09-30",
+        "ora_inizio": "9:00",
+        "ora_fine": "11:00",
+        "descrizione": "Miglioramento presentazione"
+    },
+    {
+        "utenti": [
+            "Stefano"
+        ],
+        "data": "2025-09-30",
+        "ora_inizio": "11:00",
+        "ora_fine": "13:00",
+        "descrizione": "Creazione script di log"
+    }
+]
