@@ -65,5 +65,14 @@
         "ora_inizio": "11:00",
         "ora_fine": "13:00",
         "descrizione": "Creazione script di log"
+    },
+    {
+        "utenti": [
+            "Alessandro"
+        ],
+        "data": "2025-10-03",
+        "ora_inizio": "18:30",
+        "ora_fine": "20:00",
+        "descrizione": "Creazione D1 e prima bozza presentazione progetto"
     }
 ]
